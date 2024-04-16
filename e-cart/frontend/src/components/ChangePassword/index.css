@@ -1,0 +1,43 @@
+.change-container{
+    margin: 6rem 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.form-group{
+    display: flex;
+    justify-content: space-around;
+}
+
+.btn-block {
+    display: block;
+    width: 100%;
+    cursor: pointer;
+  }
+
+.btn-primary{
+    background-color: rgb(161, 19, 204);
+    color: #fff;
+    border: 0;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: medium;
+}
+
+.input-field{
+    width: 100%;
+    margin-bottom: 10px;
+    width: 300px;
+    height: 30px;
+    padding: 10px;
+}
+
+span{
+    color: rgb(236, 32, 32);
+}
+
+.success-msg{
+    color: rgb(39, 231, 14);
+}
